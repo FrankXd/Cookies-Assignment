@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\cookiebatch\cookieBatch\bin\Debug\CardDeck.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\cookiebatch\cookieBatch\obj\Debug\CardDeck.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\cookiebatch\cookieBatch\obj\Debug\CardDeck.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\cookiebatch\cookieBatch\obj\Debug\Cookies.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\cookiebatch\cookieBatch\bin\Debug\CardDeck.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\cookiebatch\cookieBatch\bin\Debug\CardDeck.pdb
